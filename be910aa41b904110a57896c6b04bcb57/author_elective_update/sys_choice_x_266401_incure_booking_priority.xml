@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="priority" table="x_266401_incure_booking" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>priority</element>
+            <name>x_266401_incure_booking</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 02:31:26</sys_created_on>
+            <sys_id>f9e67bc11b10c110a57896c6b04bcbb3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>priority</sys_name>
+            <sys_package display_value="InCure" source="x_266401_incure">be910aa41b904110a57896c6b04bcb57</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="InCure">be910aa41b904110a57896c6b04bcb57</sys_scope>
+            <sys_update_name>sys_choice_x_266401_incure_booking_priority</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 02:31:26</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1 - Critical</label>
+            <language>en</language>
+            <name>x_266401_incure_booking</name>
+            <sequence>0</sequence>
+            <synonyms>p1,p1s,p1's</synonyms>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 02:31:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>71e67bc11b10c110a57896c6b04bcbb3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 02:31:26</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2 - High</label>
+            <language>en</language>
+            <name>x_266401_incure_booking</name>
+            <sequence>1</sequence>
+            <synonyms>p2,p2s,p2's</synonyms>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 02:31:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f5e67bc11b10c110a57896c6b04bcbb6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 02:31:26</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>3 - Moderate</label>
+            <language>en</language>
+            <name>x_266401_incure_booking</name>
+            <sequence>2</sequence>
+            <synonyms>p3,p3s,p3's</synonyms>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 02:31:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bde67bc11b10c110a57896c6b04bcbb8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 02:31:26</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>4 - Low</label>
+            <language>en</language>
+            <name>x_266401_incure_booking</name>
+            <sequence>3</sequence>
+            <synonyms>p4,p4s,p4's</synonyms>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-07 02:31:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bde6ffc11b10c110a57896c6b04bcb1f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-07 02:31:26</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

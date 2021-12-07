@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher">
+    <sys_sg_applet_launcher action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <available_offline>false</available_offline>
+        <header_button/>
+        <header_titles/>
+        <hide_empty_sections>true</hide_empty_sections>
+        <name>InCure</name>
+        <required_roles>x_266401_incure.admin,x_266401_incure.staff,x_266401_incure.doctor,x_266401_incure.patient</required_roles>
+        <search_config display_value="Homepage Search - Catalog, Knowledge, People">d259d3d47320330018eea18d4ef6a708</search_config>
+        <sys_class_name>sys_sg_applet_launcher</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-05 04:46:57</sys_created_on>
+        <sys_id>6bb2ca241b904110a57896c6b04bcbc8</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>InCure</sys_name>
+        <sys_package display_value="InCure" source="x_266401_incure">be910aa41b904110a57896c6b04bcb57</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="InCure">be910aa41b904110a57896c6b04bcb57</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_6bb2ca241b904110a57896c6b04bcbc8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-07 02:04:26</sys_updated_on>
+        <title>InCure</title>
+    </sys_sg_applet_launcher>
+</record_update>

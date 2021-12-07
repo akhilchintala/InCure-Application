@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="Booking" max_length="40" name="x_266401_incure_booking" sizeclass="5" type="collection">
+        <element label="Date Of Appointment" mandatory="true" max_length="40" name="date_of_appointment" type="glide_date"/>
+        <element label="Doctor" max_length="32" name="doctor" reference="sys_user" reference_qual="department=9258c6ac1b904110a57896c6b04bcb76^EQ" reference_qual_condition="department=9258c6ac1b904110a57896c6b04bcb76^EQ" type="reference"/>
+        <element choice="1" label="Slots" mandatory="true" max_length="40" name="slots" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Morning" sequence="10" value="0"/>
+                <element inactive_on_update="false" label="Afternoon" sequence="20" value="1"/>
+                <element inactive_on_update="false" label="Evening" sequence="30" value="2"/>
+            </choice>
+        </element>
+    </element>
+</database>

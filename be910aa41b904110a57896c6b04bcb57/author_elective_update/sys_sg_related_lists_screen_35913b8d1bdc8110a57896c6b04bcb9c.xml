@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_related_lists_screen">
+    <sys_sg_related_lists_screen action="DELETE">
+        <available_offline>false</available_offline>
+        <description/>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>background</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon/>
+        <name>Related List</name>
+        <roles_override/>
+        <show_count>true</show_count>
+        <sys_class_name>sys_sg_related_lists_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-07 02:08:13</sys_created_on>
+        <sys_id>35913b8d1bdc8110a57896c6b04bcb9c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Related List</sys_name>
+        <sys_package display_value="InCure" source="x_266401_incure">be910aa41b904110a57896c6b04bcb57</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="InCure">be910aa41b904110a57896c6b04bcb57</sys_scope>
+        <sys_update_name>sys_sg_related_lists_screen_35913b8d1bdc8110a57896c6b04bcb9c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-07 02:08:13</sys_updated_on>
+        <table>x_266401_incure_booking</table>
+    </sys_sg_related_lists_screen>
+    <sys_translated_text action="DELETE" query="documentkey=35913b8d1bdc8110a57896c6b04bcb9c"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="InCure">be910aa41b904110a57896c6b04bcb57</application>
+        <file_path/>
+        <instance_id>0e2880c41bd87c10e84d2f8dee4bcb81</instance_id>
+        <instance_name>dev117119</instance_name>
+        <name>sys_sg_related_lists_screen_35913b8d1bdc8110a57896c6b04bcb9c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_related_lists_screen"><sys_sg_related_lists_screen action="INSERT_OR_UPDATE"><available_offline>false</available_offline><description/><dynamic_prefetch_count/><empty_state/><fetch_type>background</fetch_type><filter/><hide_filters>false</hide_filters><hide_screen_name>false</hide_screen_name><icon/><name>Related List</name><roles_override/><show_count>true</show_count><sys_class_name>sys_sg_related_lists_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-12-07 02:08:13</sys_created_on><sys_id>35913b8d1bdc8110a57896c6b04bcb9c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Related List</sys_name><sys_package display_value="InCure" source="x_266401_incure">be910aa41b904110a57896c6b04bcb57</sys_package><sys_policy/><sys_scope display_value="InCure">be910aa41b904110a57896c6b04bcb57</sys_scope><sys_update_name>sys_sg_related_lists_screen_35913b8d1bdc8110a57896c6b04bcb9c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-12-07 02:08:13</sys_updated_on><table>x_266401_incure_booking</table></sys_sg_related_lists_screen><sys_translated_text action="delete_multiple" query="documentkey=35913b8d1bdc8110a57896c6b04bcb9c"/></record_update>]]></payload>
+        <payload_hash>-824869228</payload_hash>
+        <record_name>Related List</record_name>
+        <reverted_from/>
+        <source>36910aa41b904110a57896c6b04bcb5a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-07 02:08:14</sys_created_on>
+        <sys_id>0e913b8d1bdc8110a57896c6b04bcb9f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17d92a606cc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-07 02:08:14</sys_updated_on>
+        <type>Related lists screen</type>
+        <update_guid>75913b8d33dc8110015555c71f02389f</update_guid>
+        <update_guid_history>75913b8d33dc8110015555c71f02389f:-824869228</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-07 02:09:59</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_related_lists_screen">sys_sg_related_lists_screen</sys_db_object>
+        <sys_id>007959fe43c04d3081688db6ab06b339</sys_id>
+        <sys_metadata>35913b8d1bdc8110a57896c6b04bcb9c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Related List</sys_name>
+        <sys_package display_value="InCure" source="x_266401_incure">be910aa41b904110a57896c6b04bcb57</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="InCure">be910aa41b904110a57896c6b04bcb57</sys_scope>
+        <sys_scope_delete display_value="">ab235958ff024a149071f1382acf8b11</sys_scope_delete>
+        <sys_update_name>sys_sg_related_lists_screen_35913b8d1bdc8110a57896c6b04bcb9c</sys_update_name>
+        <sys_update_version display_value="sys_sg_related_lists_screen_35913b8d1bdc8110a57896c6b04bcb9c">0e913b8d1bdc8110a57896c6b04bcb9f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-07 02:09:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

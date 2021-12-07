@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_filter">
+    <sys_sg_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <name>Bookings Filter</name>
+        <sys_class_name>sys_sg_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-07 02:19:38</sys_created_on>
+        <sys_id>cd34f7411b10c110a57896c6b04bcbe1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Bookings Filter</sys_name>
+        <sys_package display_value="InCure" source="x_266401_incure">be910aa41b904110a57896c6b04bcb57</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="InCure">be910aa41b904110a57896c6b04bcb57</sys_scope>
+        <sys_update_name>sys_sg_filter_cd34f7411b10c110a57896c6b04bcbe1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-07 02:19:38</sys_updated_on>
+    </sys_sg_filter>
+    <sys_translated_text action="delete_multiple" query="documentkey=cd34f7411b10c110a57896c6b04bcbe1"/>
+</record_update>
